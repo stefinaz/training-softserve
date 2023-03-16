@@ -6,5 +6,6 @@ public class main()
 	{
 		int i = 1;
 		int j = 2;
+		int x = 3;
 	}
 }
